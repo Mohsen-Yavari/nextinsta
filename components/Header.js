@@ -8,17 +8,17 @@ export default function Header() {
   return (
 
       
-        <div className="flex items-center justify-between max-w-6xl">
+        <div className="flex items-center justify-between max-w-6xl mx-4 xl:mx-auto">
             {/* Left */}
             <div className="cursor-pointer h-24 w-24 relative hidden lg:inline-grid">
-            <img
+            <Image
             src="http://www.jennexplores.com/wp-content/uploads/2015/09/Instagram_logo_black.png"
             layout="fill"
             className="object-contain "
             />
             </div>
-            <div className="cursor-pointer h-24 w-24 relative lg:hidden">
-            <img
+            <div className="cursor-pointer h-10 w-10 mt-5 relative lg:hidden">
+            <Image
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png"
             layout="fill"
             className="object-contain"
@@ -37,7 +37,14 @@ export default function Header() {
               </div>
 
                {/* Right */}
-            <h1>right</h1>
+                <div className="flex space-x-4 items-center">
+                  <HomeIcon className="hidden md:inline-flex h-6 cursor-pointer hover:scale-125 transition-transform duration-200 esa-out" />
+                  <PlusCircleIcon className="h-6 cursor-pointer hover:scale-125 transition-transform duration-200 esa-out" />
+                  <img 
+                  className="h-10 w-10 rounded-full cursor-pointer"
+                  src="https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHVtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" 
+                  alt="" />
+                </div>
         </div>
 
   
