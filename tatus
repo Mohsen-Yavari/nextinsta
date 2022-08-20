@@ -1,0 +1,72 @@
+[33mcommit 30e3eaf2783d1c59a5cb5292f019fea34b59cd2c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 15:40:11 2022 +0330
+
+    build the suggestions part of the feed component
+
+[33mcommit 529e2e2af7a9502f9d351e00f8afbcecb69dd801[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 14:50:04 2022 +0330
+
+    create the mini profile component
+
+[33mcommit 57d16c244ed20b90b9ecf4e594264321374f7d79[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 14:07:12 2022 +0330
+
+    make the feed section responsive
+
+[33mcommit 1e7729b4078c7e957a3bb4acca6ad4571b5b2b5d[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 13:53:44 2022 +0330
+
+    add the caption and input box of the post components
+
+[33mcommit a940a33e70dfb9c938ac6e6d9a94844db902fe46[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 11:31:22 2022 +0330
+
+    create a header and img section of the posts components
+
+[33mcommit 8345e58fb7e2fc0abff0cd08e9272efaa3667880[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 10:37:11 2022 +0330
+
+    create posts
+    and post components and make some dummy data
+
+[33mcommit 1c73254c5991c2f363f3c8dba777f53e7e954b05[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 10:07:56 2022 +0330
+
+    style the story section and  install talwind scrollbar
+
+[33mcommit bbe6342a3765d32884da44940b1316ca1f7bf265[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Thu Aug 18 09:07:57 2022 +0330
+
+    pupula fake data useing minifaker and create feed and story components
+
+[33mcommit a5a946584297b7f97a4aa1813af53b28fb8fb6e8[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Wed Aug 17 16:45:25 2022 +0330
+
+    add the menu at profile image at the right side of the header
+
+[33mcommit c60bbf28219f1c2879f6fe940866d43d8fc7e785[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Wed Aug 17 15:56:55 2022 +0330
+
+    searchbar to the headercomponent
+
+[33mcommit bc9461a8eca53937f6583591f6f406ca05234435[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Wed Aug 17 14:55:46 2022 +0330
+
+    add instagram logo to the left side of the header components
+
+[33mcommit a27a22dcf2686e0add908426ccc8c93488147d7c[m
+Author: Mohsen-Yavari <mohsenyavari713@gmail.com>
+Date:   Wed Aug 17 13:31:17 2022 +0330
+
+    Initial commit from Create Next App
